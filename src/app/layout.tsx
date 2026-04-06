@@ -6,7 +6,7 @@ import SmoothScroll from "@/components/SmoothScroll";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ChillTea | Your Next Moment of Calm",
+  title: "ChillTea",
   description: "Your next moment of calm is one sip away. Experience the ChillTea collection.",
 };
 
