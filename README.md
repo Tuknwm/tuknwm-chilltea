@@ -1,6 +1,6 @@
 # ChillTea - Premium Tea Experience
 
-![ChillTea Banner](https://placehold.co/1200x400/949E7A/ffffff?text=ChillTea)
+![ChillTea Banner](https://placehold.co/1200x400/ffffff?text=ChillTea)
 
 > **Brewing pause in the midst of chaos.**
 
