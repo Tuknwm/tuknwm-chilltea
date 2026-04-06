@@ -1,7 +1,5 @@
 # ChillTea - Premium Tea Experience
 
-![ChillTea Banner](https://placehold.co/1200x400/ffffff?text=ChillTea)
-
 > **Brewing pause in the midst of chaos.**
 
 ChillTea is a premium tea brand website that offers a moment of tranquility through carefully crafted tea products. Built with Next.js 16 and React 19, this modern web application delivers an immersive brand experience with smooth animations and elegant design. (Because this is still an experiment, the results can be said to be still lacking. ≧ ﹏ ≦)
